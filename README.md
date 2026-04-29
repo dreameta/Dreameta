@@ -1,8 +1,8 @@
 ![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67](https://user-images.githubusercontent.com/77717297/190310937-aded4e6e-a7a8-436e-bb92-24eadfb508e6.png)
 
 ### Hi, I'm Mackson.Wang. 👋
-- 🌱 I’m a foolish student currently studying in Xidian University.
-- 📫 How to reach me: macksonwang@outlook.com
+- 🌱 I’m a foolish student currently studying in Hong Kong University of Science and Technology (Guang Zhou).
+- 📫 How to reach me: mwang106@connect.hkust-gz.edu.cn
 - 🔭 I’m currently learning UNIVERSE.
 
 
